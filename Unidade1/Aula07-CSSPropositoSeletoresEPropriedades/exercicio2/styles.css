@@ -1,0 +1,19 @@
+.box {
+  height: 150px;
+  width: 150px;
+}
+.line div {
+  display: inline-block; /* é utilizado para indicar a forma como os elementos HTML serão dispostos na página ou em espaços delimitados*/
+  margin-bottom: 50px; /* define as dimensoes da margem inferior*/
+}
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
