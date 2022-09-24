@@ -1,0 +1,39 @@
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.rigth {
+  text-align: right;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.justify {
+  text-align: justify;
+}
+
+p.uppercase {
+  text-transform: uppercase;
+}
+
+h1.shadow {
+  text-shadow: 1px 1px red;
+}
