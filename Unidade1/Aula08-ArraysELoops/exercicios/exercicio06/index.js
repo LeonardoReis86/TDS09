@@ -1,0 +1,12 @@
+const numeros = [3, 4, 7, 8, 1, 6, 5, 10];
+
+let somaDosPares = 0;
+
+for (let numero of numeros) {
+  if (numero % 2 === 0) {
+    somaDosPares += numero;
+  }
+}
+console.log(
+  `A soma dos números pares presentes nesse array é ${somaDosPares}.`
+);
