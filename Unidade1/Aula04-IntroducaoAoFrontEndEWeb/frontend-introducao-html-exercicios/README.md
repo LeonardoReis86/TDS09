@@ -4,7 +4,7 @@
 
 ## Exercícios de classe 🏫
 
-1. Exercício 1 - Perfil de usuário e comidas preferidas, Exemplo abaixo:
+1. Exercício 1 - Perfil de usuário e esportes favoritos, Exemplo abaixo:
     ![](https://i.imgur.com/RjKOTjD.png)
 
 ---
