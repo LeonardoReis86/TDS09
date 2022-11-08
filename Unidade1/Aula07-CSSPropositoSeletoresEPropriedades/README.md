@@ -22,9 +22,4 @@ https://www.w3schools.com/css/css_text.asp
     
 ---
 
-
-
-Preencha a checklist para finalizar o exercício:
--   [ ] Forkar o repositório
-
 ###### tags: `módulo 1` `front-end` `HTML`
