@@ -17,9 +17,4 @@
 3. Exercício 3 - Filme na tela
     ![](https://i.imgur.com/BdVUR2q.png)
 
-
-
-Preencha a checklist para finalizar o exercício:
--   [ ] Forkar o repositório
-
 ###### tags: `módulo 1` `front-end` `HTML`
